@@ -13,3 +13,7 @@ Rose quartz: #B2A3B5
 
 ## CSS
 .img -> where you can adjust image size
+
+## Webpages:
+https://gracek7689.github.io/cmsc389T-web-template/
+https://terpconnect.umd.edu/~gko1/cmsc389T-web-template/ 
